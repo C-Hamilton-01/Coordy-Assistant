@@ -19,7 +19,7 @@ This tool is designed specifically for production coordinators working in commer
 
 -A menu will be added called "Coordy" Here you will see the options to: Import Vendors, Rename Vendors, and Organize sheets by numeric order.
 
--From your PO folder in Finder (on Mac) copy the PO folder, or the desired Vendor Folders by highlighting the folders and then copying.
+-From your PO folder in Finder (on Mac) copy the PO folders, or the desired Vendor Folders by highlighting the folders and then copying.
 
 -Click the menu Coordy and click "Import Vendors". In the Pop up, paste the vendors and click OK. 
 
