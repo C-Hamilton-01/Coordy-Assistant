@@ -19,15 +19,13 @@ This tool is designed specifically for production coordinators working in commer
 
 -A menu will be added called "Coordy" Here you will see the options to: Import Vendors, Rename Vendors, and Organize sheets by numeric order.
 
--In a sperate Sheets document, any blank one will do, paste your list of PO Vendors into column A. 
--Copy the URL of that sheet then go back to your PO sheets. 
+-From your PO folder in Finder (on Mac) copy the PO folder, or the desired Vendor Folders by highlighting the folders and then copying.
 
--Click the menu Coordy and click "Import Vendors". In the Pop up, paste the URL and click OK. 
+-Click the menu Coordy and click "Import Vendors". In the Pop up, paste the vendors and click OK. 
 
 -The next popup will ask if you want them reordered by their PO numbers. 
 
--Let the POs generate and then there will a pop up letting you know it is complete!
-
+-Let the POs generate and then there will be a pop up letting you know it is complete!
 
 📝 Current Limitations
 - Currently supports only the **Smuggler LLC** PO template.
