@@ -17,8 +17,7 @@ This tool is designed specifically for production coordinators working in commer
 
 -To use this add-on, Install through Google Marketplace and then refresh your sheets.
 
-A menu will be added called "Coordy"
-Here you will see the options to: Import Vendors, Rename Vendors, and Organize sheets by numeric order.
+-A menu will be added called "Coordy" Here you will see the options to: Import Vendors, Rename Vendors, and Organize sheets by numeric order.
 
 -In a sperate Sheets document, any blank one will do, paste your list of PO Vendors into column A. 
 -Copy the URL of that sheet then go back to your PO sheets. 
