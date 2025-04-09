@@ -36,5 +36,5 @@ Here you will see the options to: Import Vendors, Rename Vendors, and Organize s
 
 
 📬 Contact
-For questions, suggestions, or to request support for your production company, email: 
+For questions, suggestions, or to request support for your production company, email: coordyassistant@gmail.com
 
